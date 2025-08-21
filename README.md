@@ -73,7 +73,8 @@ TO DO
 ---
 
 ## 📸 Showcase
-<img width="761" height="212" alt="image" src="https://github.com/user-attachments/assets/920e540f-4864-4fc3-8a14-8531c718b9db" />
+
+<img width="782" height="226" alt="image" src="https://github.com/user-attachments/assets/4e5addc0-07d5-47d7-bbb8-18ba1d19b515" />
 
 ---
 
