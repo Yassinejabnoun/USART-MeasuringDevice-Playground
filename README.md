@@ -72,6 +72,11 @@ TO DO
 
 ---
 
+## 📸 Showcase
+<img width="761" height="212" alt="image" src="https://github.com/user-attachments/assets/920e540f-4864-4fc3-8a14-8531c718b9db" />
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository
